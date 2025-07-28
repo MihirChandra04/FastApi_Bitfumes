@@ -1,4 +1,4 @@
 __pycache__
 fastapi-env
 .vscode/
-.blog-env/
+blog-env/
